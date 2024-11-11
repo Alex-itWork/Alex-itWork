@@ -53,7 +53,7 @@ me.say_hi()
   </div>
 
   ###
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
   <div align="center">
     <a href="https://t.me/Alex_itWork" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
@@ -81,6 +81,9 @@ me.say_hi()
   
 ###
 </div>
+
+
+
 
 
 
