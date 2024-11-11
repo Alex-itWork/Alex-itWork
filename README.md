@@ -70,7 +70,7 @@ me.say_hi()
     <a href="https://https://kwork.ru/user/alex_it_work" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=49d00e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="upwork logo"  />
     </a>
-    <a href="https://wa.me/+79127589270" target="_blank">
+    <a href="https://wa.me/+79163681968" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Whats App&logo=whatsapp&label=&color=3db509&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whats app logo"  />
     </a>
   </div>
