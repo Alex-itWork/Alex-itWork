@@ -77,9 +77,10 @@ me.say_hi()
 
   ###
 
-  <img src="https://raw.githubusercontent.com/Alex-itWork/Alex_itWork/output/snake.svg" alt="Snake animation" />
-
+   <img src="https://raw.githubusercontent.com/Arthur-king18/Arthur-king18/output/snake.svg" alt="Snake animation" />
+  
 ###
+</div>
 
 
 
