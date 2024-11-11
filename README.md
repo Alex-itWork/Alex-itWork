@@ -80,8 +80,6 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/Alex-itWork/Alex_itWork/output/snake.svg" alt="Snake animation" />
 
 ###
-</div>
-https://raw.githubusercontent.com/Alex-itWork/Alex-itWork/output/snake.svg
 
 
 
